@@ -4,8 +4,10 @@
 Sistema autônomo de gestão de filas para refeitórios escolares utilizando Raspberry Pi 3, Python, Flask e SQLite.
 Tela do Administrador – Organiza a ordem de acesso das turmas ao refeitório.
 <img width="1384" height="1414" alt="image" src="https://github.com/user-attachments/assets/2a8a5f5c-505d-4a29-8f3f-4debc7dd047c" />
-
+Tela do Inspetor - Avisa e Libera o acesso ao Refeitório.
+Tela do Painel - Telas espalhadas pela escola que informam que o acesso ao refeitório está próximo ou liberado.
 <img width="2872" height="1418" alt="image" src="https://github.com/user-attachments/assets/b92d6402-268e-42a4-862c-6f1a8d2c9593" />
+Telas do Inspetor e do Painel - Apresentando o status de almoço encerrado.
 <img width="2864" height="1504" alt="image" src="https://github.com/user-attachments/assets/007b6ca8-dda8-45e1-86f9-da1655e6383a" />
 
 
