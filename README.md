@@ -50,6 +50,3 @@ O projeto foi estruturado seguindo o padrão minimalista do ecossistema Flask:
 ## 💡 Motivação e Resultados
 
 Este projeto foi desenhado sob medida para resolver o gargalo de comunicação logística na troca de turnos de almoço de uma instituição de ensino. A automação no backend reduziu a necessidade de intervenção humana contínua, permitindo que a equipe de inspeção foque exclusivamente na segurança dos alunos, enquanto o sistema gerencia o tempo de permanência e a limpeza visual dos painéis.
-
-> **Nota:** Por motivos de segurança institucional e propriedade intelectual da organização onde o sistema está implantado, o código-fonte deste projeto é mantido em um repositório privado.
-
