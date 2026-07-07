@@ -1,3 +1,5 @@
+> 🔒 **Nota de Confidencialidade:** Por questões de direitos autorais, segurança e conformidade de dados com a instituição de ensino parceira, o código-fonte integral deste projeto é privado. Esta documentação serve como um estudo de caso técnico de engenharia e arquitetura de software para o meu portfólio.
+
 # sgr-fmm-portfolio
 Sistema autônomo de gestão de filas para refeitórios escolares utilizando Raspberry Pi 3, Python, Flask e SQLite.
 
