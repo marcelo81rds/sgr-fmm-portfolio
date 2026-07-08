@@ -29,6 +29,7 @@ Uma solução robusta e leve desenvolvida para otimizar o fluxo de alunos em ref
 
 ## 🛠️ Tecnologias Utilizadas
 
+*   **Servidor Local:** Raspberry Pi 3.
 *   **Backend:** Python 3 + Flask (Estrutura de API RESTful)
 *   **Banco de Dados:** SQLite (Armazenamento leve e relacional com persistência local)
 *   **Frontend:** HTML5, CSS3 (CSS Grid/Flexbox moderno com unidades dinâmicas `vw`/`vh`) e JavaScript Vanilla (Consumo assíncrono via `fetch` API)
